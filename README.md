@@ -1,2 +1,2 @@
 # data-deletion
-Developing youtube video to facebook posting
+This app does not store any user data. If you wish to request deletion, contact mrspatium@gmail.com.
